@@ -16,6 +16,8 @@ This project is a standard image classification model built using TensorFlow/Ker
 
 All code is in `main.py`, with optional exploration and training in the notebook.
 
+![finalgif_imageclassficiation](https://github.com/user-attachments/assets/021a219b-4692-4d8a-abee-db8ffa43c0f8)
+
 ## 🛠 How to Run
 
 1. Clone the repository:
